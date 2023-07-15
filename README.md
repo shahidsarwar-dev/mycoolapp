@@ -1,2 +1,2 @@
 # mycoolapp
-# Spring 3 and Java 17 features app
+# Spring Boot 3, Spring 6 used with Java 17 features app
